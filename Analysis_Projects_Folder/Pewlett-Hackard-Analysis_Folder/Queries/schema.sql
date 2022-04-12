@@ -88,3 +88,4 @@ CREATE TABLE titles (
 	PRIMARY KEY (emp_no, from_date)
 );
 SELECT * FROM titles;
+SELECT * FROM employees;
