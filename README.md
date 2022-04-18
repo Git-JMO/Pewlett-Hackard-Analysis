@@ -5,7 +5,8 @@
    
 ## Results: 
    * Deliverable 1: Determining the number of retiring employees per title
-   * 
+     * In order to ensure we stayed organized and maintained a clear understanding of the relationship between each spreadsheet, we continously referenced the Entity Relationship Diagram (ERD) we initially created (pictured below).   
+   * ![ERD](analysis/Pyber_Summary_DataFrame.png)
    * Delverable 2: Identifying the employees eligible to participate in a mentorship program
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
