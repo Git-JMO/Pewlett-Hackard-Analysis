@@ -1,7 +1,8 @@
 # Pewlett-Hackard-Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
-
+## Overview/Purpose of the analysis: 
+   * The purpose of this report is to better prepare Bobby's manager for the upcoming "silver tsunami." By leveraging SQL (pgAdmin), we were able to determine the number of retiring employees per title and identified the employees who are eligible to participate in a mentorship program. 
+   
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
