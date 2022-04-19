@@ -28,5 +28,7 @@
 
 ## Summary: 
    * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-     * As previously mentioned, there are a total number of 72,458 positions that will need to be filled due to the "silver tsunami."
+     * As previously mentioned, there are a total number of 72,458 positions that will need to be filled due to the "silver tsunami." This is approximately 30.18% of the company's workforce which will likely negatively affect productivity and efficiency. Below is an image of the SQL code used to calculate the numbers:
+      ![count_code](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/query_for_counts.png)
    * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+     * After further analysis, the total number of 1,549 retiring employees eligible for the mentorship program will likely be insufficient to sustain expertise. Moreover, it is unrealistic to think 1,549 individuals will be able to make up for the significantly high number of attrition. Perhaps management can temporarily hire contractors with the appropriate expertise/backgrounds to mentor new-hires while the workforce is replenished. 
