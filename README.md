@@ -11,6 +11,7 @@
       ![retirement_tables](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retirement_unique.png)
      * Finally, from the "unique_titles" table we retrieved the number of retiring employees by most recent job title and created a new table and csv named "retiring_titles." Below is the code along with a pic of the csv export. 
      * ![retiring_titles](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles.png)
+     *  ll
      *  
      
    * Delverable 2: Identifying the employees eligible to participate in a mentorship program
