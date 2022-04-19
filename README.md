@@ -9,7 +9,9 @@
    * Deliverable 1: Determining the number of retiring employees per title
      * In order to determine the number of retiring employees per title, we first created a SQL table named "retirement_tables" which combined pertinent data from the "employees" and "titles" tables such as employee number, last name, first name, titles, etc and extracted only the birth dates between 1952 and 1955. The table was then exported as a csv. Immediately after, we created another table named "unique_titles" that would exclude duplicate rows and created another csv. See below.
       ![retirement_tables](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retirement_unique.png)
-     * Finally, from the "unique_titles" table we retrieved the number of retiring employees by most recent job title and created a new table and csv named "retiring_titles." Below is the code along with a pic of the csv export.  
+     * Finally, from the "unique_titles" table we retrieved the number of retiring employees by most recent job title and created a new table and csv named "retiring_titles." Below is the code along with a pic of the csv export. 
+     * ![retiring_titles](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles.png)
+     *  
      
    * Delverable 2: Identifying the employees eligible to participate in a mentorship program
 
