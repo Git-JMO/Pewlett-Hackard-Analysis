@@ -17,6 +17,14 @@
    * Delverable 2: Identifying the employees eligible to participate in a mentorship program
      * In order to identify the employees who are eligible to participate in a mentorship program, we created a SQL table named "mentorship_eligibility" which combined data from the employees, dept_emp and titles tables. We also filtered birth dates that were only within the year 1965. The table was then exported to a csv. See below image of the code we used. 
        ![membership_code](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Deliverable_2_SQL.png)
+     * Analysis: After examining the data, there are 1,549 individuals eligible for the mentorship program. This is less than 2% of retiring employees. Of note, there were no Managers eligible for the mentorship program. Below is the full breakdown: 
+       * Assistant Engineer	- 61
+       * Engineer -	399
+       * Senior Engineer - 288
+       * Senior Staff - 306
+       * Staff -	418
+       * Technique Leader -	77
+       * Grand Total:	1549 
 
 ## Summary: 
    * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
