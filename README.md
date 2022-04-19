@@ -15,6 +15,7 @@
      
    * Delverable 2: Identifying the employees eligible to participate in a mentorship program
      * In order to identify the employees who are eligible to participate in a mentorship program, we created a SQL table named "mentorship_eligibility" which combined data from the employees, dept_emp and titles tables. We also filtered birth dates that were only within the year 1965. The table was then exported to a csv. See below image of code and csv export. 
+       ![membership_code](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Deliverable_2_SQL.png)
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
    * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
