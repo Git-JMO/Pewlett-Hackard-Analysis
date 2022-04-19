@@ -12,11 +12,13 @@
      * Finally, from the "unique_titles" table we retrieved the number of retiring employees by most recent job title and created a new table and csv named "retiring_titles." Below is the code along with an image of the csv export. 
         ![retiring_titles](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles.png)
         ![retiring_titles_csv](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles_csv_image.png)
+       * Analysis: There are a total of 72,458 employees retiring. Senior Engineers and Senior Staff account for a combined 70.2% out of that total which is significantly high. Conversely, there are only 2 managers eligible for retirement. 
      
    * Delverable 2: Identifying the employees eligible to participate in a mentorship program
-     * In order to identify the employees who are eligible to participate in a mentorship program, we created a SQL table named "mentorship_eligibility" which combined data from the employees, dept_emp and titles tables. We also filtered birth dates that were only within the year 1965. The table was then exported to a csv. See below image of code and csv export. 
+     * In order to identify the employees who are eligible to participate in a mentorship program, we created a SQL table named "mentorship_eligibility" which combined data from the employees, dept_emp and titles tables. We also filtered birth dates that were only within the year 1965. The table was then exported to a csv. See below image of the code we used. 
        ![membership_code](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Deliverable_2_SQL.png)
 
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary: 
    * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+     * 
    * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
