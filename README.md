@@ -9,12 +9,12 @@
    * Deliverable 1: Determining the number of retiring employees per title
      * In order to determine the number of retiring employees per title, we first created a SQL table named "retirement_tables" which combined pertinent data from the "employees" and "titles" tables such as employee number, last name, first name, titles, etc and extracted only the birth dates between 1952 and 1955. The table was then exported as a csv. Immediately after, we created another table named "unique_titles" that would exclude duplicate rows and created another csv. See below.
       ![retirement_tables](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retirement_unique.png)
-     * Finally, from the "unique_titles" table we retrieved the number of retiring employees by most recent job title and created a new table and csv named "retiring_titles." Below is the code along with a pic of the csv export. 
-     * ![retiring_titles](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles.png)
-     * ![retiring_titles_csv](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles_csv_image.png)
-     *  
+     * Finally, from the "unique_titles" table we retrieved the number of retiring employees by most recent job title and created a new table and csv named "retiring_titles." Below is the code along with an image of the csv export. 
+        ![retiring_titles](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles.png)
+        ![retiring_titles_csv](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/retiring_titles_csv_image.png)
      
    * Delverable 2: Identifying the employees eligible to participate in a mentorship program
+     * In order to identify the employees who are eligible to participate in a mentorship program, we created a SQL table named "mentorship_eligibility" which combined data from the employees, dept_emp and titles tables. We also filtered birth dates that were only within the year 1965. The table was then exported to a csv. See below image of code and csv export. 
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
    * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
